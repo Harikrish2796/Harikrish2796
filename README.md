@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Harikrish2796
+- 👋 Hi, I’m Hari
 - 👀 I’m interested in numbers
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning sql, power bi and a bit of statistics.
 - 😄 Pronouns: he/him
 
 
